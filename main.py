@@ -5,6 +5,8 @@ import os
 import tensorflow as tf
 import tensorflow_text as tf_text
 
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "kebali-capstoneproject-d4dfa451fbde.json"
+
 app = Flask(__name__)
 
 BUCKET_NAME = 'kebali-model'
@@ -12,7 +14,7 @@ LOCAL_MODEL_BASE_PATH = '/tmp/models'
 os.makedirs(LOCAL_MODEL_BASE_PATH, exist_ok=True)
 
 def download_model_from_gcs(bucket_name, model_folder_name):
-    storage_client = storage.Client()
+    storage_client = storage.Client(project="KeBali-CapstoneProject")
     bucket = storage_client.bucket(bucket_name)
     blobs = bucket.list_blobs(prefix=model_folder_name)
     
