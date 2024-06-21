@@ -5,6 +5,7 @@ import os
 import tensorflow as tf
 import tensorflow_text as tf_text
 
+##for key credential we save it for our self
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "test_key.json"
 
 app = Flask(__name__)
