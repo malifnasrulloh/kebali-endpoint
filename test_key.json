@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kebali-capstoneproject",
+  "private_key_id": "b4109acfbf8f089a29b3e6c2ceaa6a8525954674",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD2oR6B/rCLPgWh\nQjan5KQ1keSp+NS6NrCWigT39TS/yLAkZxMUQmaQ/V0+bJlaUoCWk+PL+/Cl2P48\nNR7EBmKm4sYGDQtrzmvh76jcGk4oDtlPz+oXsVsVAcy03OU8wMRkeJQTWzRPc8VY\nXAy7bdGiI9ftFoSv9SK7bdNHQIizTzHJUzoY4I6zJqtMyxHKomxpisWGVlZCSxON\nW365yoVBbT4DnkThWIzSdLbyG/PzHOK79yGU4cqWWDBzBSBlXEDYA611YNtqszdo\noKmIIfdEjviFBNsq4VItNFqurRglX2yvx20uRQ8ouy4/N00WAl30NvNnlEwdGe2k\nYNSPp2m9AgMBAAECggEAMOV0MDcvxsdy48wGHIbI5KMKaAWAnXOi0pHGFuf7P4u5\nGlqCLpnUjmnhDvOGeuERA+mJuAM47JSnIQYyFZCjhe0/b+stqL/J5Uc33f1sIeaB\nwKBay7w6r+FFtdT2sPMR7M54IxdJuXfdOB2124IUFhaPpH56q40JCApn4UBC6fOF\nq1tnaCNMmR4/jZ2m9DNQPijvPoYs2amqqYZxI1nEqjlrx+YNPxT1bAl6wMGQlgPj\n4hNES2tlgpaHhcBfcuJMGcmpYS0OPZwyKsDAsm+nflaYuwLt0HhDNiD8EBzR71IB\ncOMV6Tjzu6xUwYbcgmtmkYHSD11pnLotFZj23iMJSQKBgQD8hVUtq04FQ8Qg+RJv\n82G+OH9IVkWYUaMqC4tgakKqRZkRZLCSzQwZ+GZsbXfcHJO5QBZ/AO6lIAQq3Emg\nPdNy1D+STpyqr39NHUWbjE5myR+9VXCeiL0fZ1wifx2TOV8hu1nKaiQyHmoGHFBd\nr7/c/E8U+YmdLMa0KXWSKYbtiQKBgQD6BwGz/grJYZ2qDkQGucR4ydMgenBrggGR\nKr7SP4i41Z0xu3TF+yyBfahkyW0Xd49nouAt9vxajlH4eKJJifLanOEPgWi/YlxB\ncI+COZZC5g2RvKpwq3WNLNX0b8sPMkqG3MtndxvibnBqj7J7Ok4g5o9RxRA+rklO\n2h2ib9yhlQKBgQDEdE6iKwWV3vS02lFXuzctr/KGKmgWalzQFw8lwUWABolhGL6u\nVsu1YKT+ceOv4KOkmZFm2SjQWioj1iGJgtAAI9QZVQNZXxNgwQcoTm2oVYxV1iS5\nkZPg3J63T8GIijfSnFjsusrSGwtNGbYETPitSbWUkdZX6z/jZeXMAnawUQKBgQC1\nd4xm5QVTMERMftokv4O331QbCIK7pLoacJna4z4KWRAkXlfcsfaVbWxg6kkBdUdi\nArcO5Wo3F4CrBHNVSIg43xACPvyVm4A2BspBzCYhG/PRSMuzxt4kvtvy84i/2NJ6\nm5oN2Ecmyt1QmkcCZUj7XBu9T3gA5mJSlsBXezT5GQKBgQCH3t0bk4/oB88KC9Ks\nUqAPP3MZetGa0RhGVfi7SREYEjOHco12GRIblthcLW53z4jLcw3E+FjePx7cxvq/\nFGGXFHaNac0/Xp7+AJ4UUx++RqLb4pTGxh9gZny1zBTYvyrKciJw8KT9rc2tTOUQ\nj1bnXQs7vrnwnUUR63ZceRYtuQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kebaliservice@kebali-capstoneproject.iam.gserviceaccount.com",
+  "client_id": "103557626891475882357",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kebaliservice%40kebali-capstoneproject.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

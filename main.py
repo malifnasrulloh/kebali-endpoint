@@ -5,7 +5,7 @@ import os
 import tensorflow as tf
 import tensorflow_text as tf_text
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "kebali-capstoneproject-d4dfa451fbde.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "test_key.json"
 
 app = Flask(__name__)
 
