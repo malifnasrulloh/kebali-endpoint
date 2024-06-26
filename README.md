@@ -10,6 +10,8 @@ Our current language support is:
 | `english` | `en` |
 | `indonesian` | `id` |
 
+### Resource access
+Since our service has been deploy on cloud, you can also access our data in this drive: <a href="https://drive.google.com/drive/folders/1-7YEK1aL3p-bmNJN53VC5VG2ia5ktjT0?usp=drive_link">`kebali-ml`</a>. You can download it directly or using `gdown` packages with python.
 
 ## Installation
 
